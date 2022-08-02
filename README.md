@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...tech 
 - 📫 How to reach me: ...linkedIn-linkedin.com/in/calistus-saratuki/
 - 😄 Pronouns: ...He/His
-- ⚡ Fun fact: ...I love groundnuts.
+- ⚡ Fun fact: ...a day never ends without me eating groundnuts.
