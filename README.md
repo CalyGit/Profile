@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Calistus</h1>
 <h3 align="center">A Data Analyst from Kenya</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)">
+<img align="right" alt="Coding" width="400" src="[https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calygit&label=Profile%20views&color=0e75b6&style=flat" alt="calygit" /> </p>
 
