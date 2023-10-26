@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calygit&label=Profile%20views&color=0e75b6&style=flat" alt="calygit" /> </p>
 
-- 🔭 I’m currently working on **Embedding ML models using GUI**
+- 🔭 I’m currently working on **Income Prediction- ML**
 
 - 🌱 I’m currently learning **Machine Learning**
 
